@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6ne4tguaw6rgr7ns/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-composition-cards/branch/main)
